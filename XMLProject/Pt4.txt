@@ -1,0 +1,236 @@
+Eliot Stanton
+LIS487 Project 2
+Part 4
+
+1. Emails and Categories of Purchases Less Than $5.00
+
+hmarymanc@hp.com:
+	Games
+hswaloughr@macromedia.com:
+	Books
+jninnoli1a@reddit.com:
+	Electronics
+cantuoni1x@msu.edu:
+	Automotive
+cdavsley28@angelfire.com:
+	Games
+lbrokenbrow31@engadget.com:
+	Beauty
+pindge3t@youtube.com:
+	Outdoors
+phinge3y@google.co.uk:
+	Grocery
+sboog4h@hibu.com:
+	Outdoors
+dbennen4p@vk.com:
+	Garden
+tbathowe58@tinyurl.com:
+	Electronics
+bgoulter5d@lycos.com:
+	Movies
+arosberg5g@berkeley.edu:
+	Jewelery
+cgillbey5t@imageshack.us:
+	Computers
+dlozano5v@usnews.com:
+	Kids
+gvautier65@about.com:
+	Sports
+ekyffin67@intel.com:
+	Movies
+dhubbuck6w@myspace.com:
+	Garden
+bgagie70@wisc.edu:
+	Toys
+smacgow7c@i2i.jp:
+	Toys
+rsteanyng7d@odnoklassniki.ru:
+	Grocery
+njanuszewski8u@blogspot.com:
+	Electronics
+hallchornea9@meetup.com:
+	Sports
+cgrievebf@istockphoto.com:
+	Sports
+ckuhnwalde8@census.gov:
+	Grocery
+echillesf2@house.gov:
+	Baby
+sfrantsevg4@tinypic.com:
+	Grocery
+edawidmangm@craigslist.org:
+	Baby
+kelsomin@nymag.com:
+	Home
+akemsoniy@blogtalkradio.com:
+	Electronics
+jrivilisk3@photobucket.com:
+	Health
+kdennisonkc@sitemeter.com:
+	Kids
+dmogenotkd@auda.org.au:
+	Jewelery
+ksoanke@tinypic.com:
+	Computers
+dwaslingl5@vimeo.com:
+	Electronics
+amcvaughls@yahoo.co.jp:
+	Clothing
+jdroganlw@google.com.br:
+	Baby
+cmorefieldlz@cafepress.com:
+	Industrial
+pbartlomiejml@gmpg.org:
+	Beauty
+pterronmx@google.com:
+	Grocery
+lclewsn2@purevolume.com:
+	Sports
+vvasyunkinnf@senate.gov:
+	Electronics
+cgiannazzoo8@cargocollective.com:
+	Kids
+pgoodliffepv@kickstarter.com:
+	Outdoors
+uklicherpy@berkeley.edu:
+	Sports
+poqc@youku.com:
+	Music
+wrawsenqj@goo.ne.jp:
+	Grocery
+kdockertyr0@delicious.com:
+	Beauty
+nferrarare@tripod.com:
+	Jewelery
+
+2. Sorted Dates that People Bought Items in Computers Category:
+
+2016-09-30
+2016-10-07
+2016-11-08
+2016-11-18
+2016-11-25
+2016-12-17
+2016-12-26
+2016-12-26
+2017-01-07
+2017-01-17
+2017-02-13
+2017-02-15
+2017-02-16
+2017-03-07
+2017-03-12
+2017-03-12
+2017-03-13
+2017-04-06
+2017-04-15
+2017-04-18
+2017-05-20
+2017-05-28
+2017-06-06
+2017-06-25
+2017-06-27
+2017-07-14
+2017-07-22
+2017-07-22
+2017-07-25
+2017-07-30
+2017-08-01
+2017-08-04
+2017-08-20
+2017-08-21
+2017-08-23
+2017-09-03
+2017-09-08
+2017-09-10
+2017-09-10
+2017-09-15
+2017-09-16
+2017-09-22
+2017-09-22
+
+First Names of People with Purchases in 2017-03:
+
+Lacey
+Keir
+Anderea
+Mel
+Cleavland
+Arvie
+Shane
+Stephannie
+Lynnea
+Morie
+Clem
+Parnell
+Tildi
+Prescott
+Emilie
+Zollie
+Gale
+Bailie
+Aaron
+Jacklyn
+Gilligan
+Debi
+Joaquin
+Tad
+Dianemarie
+Calley
+Claudelle
+Frederich
+Rafaellle
+Alfie
+Fairfax
+Kitti
+Henryetta
+Thelma
+Queenie
+Jaime
+Bram
+Miguel
+Noby
+Leodora
+Petrina
+Lorant
+Burtie
+Bev
+Gray
+Maison
+Deloria
+Jacintha
+Natalie
+De witt
+Gustaf
+Pearline
+Lita
+Syman
+Elane
+Ware
+Halsey
+Aileen
+Kristine
+Maitilde
+Sophronia
+Patricia
+Herold
+Farris
+Beck
+Jeffry
+Conn
+Cross
+Adlai
+Cash
+Moll
+Shay
+Dag
+Salem
+Constantine
+Sindee
+Mick
+Zelda
+Hashim
+Bryon
+Karlyn
+Irv
+Ulberto

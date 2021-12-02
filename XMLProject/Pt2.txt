@@ -1,0 +1,74 @@
+Eliot Stanton
+LIS487 Project 2
+Part 2
+
+1. Total Amounts for Each Budget Category 
+
+Automotive:
+	$1930.32
+Baby:
+	$2425.53
+Beauty:
+	$2008.85
+Books:
+	$1883.38
+Clothing:
+	$2293.55
+Computers:
+	$2293.0
+Electronics:
+	$1842.75
+Games:
+	$2137.83
+Garden:
+	$2672.63
+Grocery:
+	$2213.92
+Health:
+	$2843.56
+Home:
+	$2165.37
+Industrial:
+	$1606.62
+Jewelery:
+	$2147.69
+Kids:
+	$2532.56
+Movies:
+	$2499.46
+Music:
+	$2465.02
+Outdoors:
+	$1695.52
+Shoes:
+	$1945.61
+Sports:
+	$2347.42
+Tools:
+	$2303.38
+Toys:
+	$2759.97
+
+2. Category People Spent the Most Money In
+
+They spent the most of any budget category, $2843.56, on Health items.
+
+3. Total Amounts for Each Year-Month
+
+2016-09: $246.4
+2016-10: $4066.66
+2016-11: $3449.27
+2016-12: $4700.69
+2017-01: $5264.05
+2017-02: $3442.69
+2017-03: $3761.03
+2017-04: $5207.93
+2017-05: $4543.56
+2017-06: $3474.17
+2017-07: $2899.59
+2017-08: $3691.83
+2017-09: $4266.07
+
+4. Person Who Spent Most Money on Single Item
+
+Averil Leveret bought the most expensive item; they spent $99.94 on the date 2016-11-16 to buy something from the category Kids.
